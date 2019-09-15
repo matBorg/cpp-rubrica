@@ -1,0 +1,3 @@
+Nome: Pinco Cognome: Pallino Numero (CELLULARE): 1234567890 Numero (CASA): 0987654321
+Nome: Paolino Cognome: Paperino Numero (CELLULARE): 1234567890 Numero (CASA): 0987654321
+Nome: Mario Cognome: Rossi Numero (CELLULARE): 234567890 Numero (CASA): 0987654321
